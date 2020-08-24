@@ -1,1 +1,86 @@
 # VancouverTrafficCams
+
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_North.jpg" height=180></centre> 
+ <centre><img src="reports/ThurlowCanadaPlace_North.jpg" height=180></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_East.jpg" height='180'></centre>
+ <centre><img src="reports/ThurlowCanadaPlace_East.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_East.jpg" height='180'></centre>
+ <centre><img src="reports/ThurlowCanadaPlace_East.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/ThurlowCanadaPlace_South.jpg" height='180'></centre>
+ <centre><img src="reports/ThurlowCanadaPlace_South.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaNorth.jpg" height='180'></centre>
+ <centre><img src="reports/BurrardCanadaNorth.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaEast.jpg" height='180'></centre>
+ <centre><img src="reports/BurrardCanadaEast.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaSouth.jpg" height='180'></centre>
+ <centre><img src="reports/BurrardCanadaSouth.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/BurrardCanadaWest.jpg" height='180'></centre>
+ <centre><img src="reports/BurrardCanadaWest.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/georgiaE.jpg" height='180'></centre>
+ <centre><img src="reports/georgiaE.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/georgiaW.jpg" height='180'></centre>
+ <centre><img src="reports/georgiaW.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/PenderEast.jpg" height='180'></centre>
+ <centre><img src="reports/PenderEast.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Georgia.jpg" height='180'></centre>
+ <centre><img src="reports/HornbyNorth_Georgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Hornby.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaEast_Hornby.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Georgia.jpg" height='180'></centre>
+ <centre><img src="reports/HornbySouth_Georgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Hornby.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaWest_Hornby.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Robson.jpg" height='180'></centre>
+ <centre><img src="reports/HornbyNorth_Robson.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/RobsonEast_Hornby.jpg" height='180'></centre>
+ <centre><img src="reports/RobsonEast_Hornby.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Robson.jpg" height='180'></centre>
+ <centre><img src="reports/HornbySouth_Robson.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/RobsonWest_Hornby.jpg" height='180'></centre>
+ <centre><img src="reports/RobsonWest_Hornby.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Georgia.jpg" height='180'></centre>
+ <centre><img src="reports/GranvilleNorth_Georgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Granville.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaEast_Granville.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Georgia.jpg" height='180'></centre>
+ <centre><img src="reports/GranvilleSouth_Georgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Granville.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaWest_Granville.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Dunsmuir.jpg" height='180'></centre>
+ <centre><img src="reports/GranvilleNorth_Dunsmuir.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/DunsmuirEast_Granville.jpg" height='180'></centre>
+ <centre><img src="reports/DunsmuirEast_Granville.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Dunsmuir.jpg" height='180'></centre>
+ <centre><img src="reports/GranvilleSouth_Dunsmuir.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/DunsmuirWest_Granville.jpg" height='180'></centre>
+ <centre><img src="reports/DunsmuirWest_Granville.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GranvilleNorth_Robson.jpg" height='180'></centre>
+ <centre><img src="reports/GranvilleNorth_Robson.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/RobsonEast_Granville.jpg" height='180'></centre>
+ <centre><img src="reports/RobsonEast_Granville.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GranvilleSouth_Robson.jpg" height='180'></centre>
+ <centre><img src="reports/GranvilleSouth_Robson.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/RobsonWest_Granville.jpg" height='180'></centre>
+ <centre><img src="reports/RobsonWest_Granville.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HoweNorthGeorgia.jpg" height='180'></centre>
+ <centre><img src="reports/HoweNorthGeorgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaEastHowe.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaEastHowe.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HoweSouthGeorgia.jpg" height='180'></centre>
+ <centre><img src="reports/HoweSouthGeorgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaWestHowe.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaWestHowe.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HornbyNorth_Georgia.jpg" height='180'></centre>
+ <centre><img src="reports/HornbyNorth_Georgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaEast_Hornby.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaEast_Hornby.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/HornbySouth_Georgia.jpg" height='180'></centre>
+ <centre><img src="reports/HornbySouth_Georgia.jpg" height='180'></centre>
+<centre><img src="https://trafficcams.vancouver.ca/cameraimages/GeorgiaWest_Hornby.jpg" height='180'></centre>
+ <centre><img src="reports/GeorgiaWest_Hornby.jpg" height='180'></centre>
+<centre><img src="https://images.drivebc.ca/bchighwaycam/pub/cameras/19.jpg" height='180'
+></centre> <centre><img src="reports/19.jpg" height='180'></centre>
+<centre><img src="https://images.drivebc.ca/bchighwaycam/pub/cameras/17.jpg" height='180'
+></centre> <centre><img src="reports/17.jpg" height='180'></centre>
+<centre><img src="https://images.drivebc.ca/bchighwaycam/pub/cameras/18.jpg" height='180'
+></centre> <centre><img src="reports/18.jpg" height='180'></centre>
