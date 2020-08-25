@@ -3,9 +3,9 @@
 Live (every hour) feed of analyzed Downtoan Vancouver traffic cameras. The images are being analyzed for their context, objects in it and the text messages. The extracted data can be used to get stats of vehicles commuted via captured routes throughout the day.
 The next step is to capture the raw and extracted data and have an anomay detection mechanism applied on them to detect accidents, fires, festivals and events.
 
-<centre><img src="images_out/ThurlowCanadaPlace_North.jpg" height=180></centre> 
- <centre><img src="reports/ThurlowCanadaPlace_North.jpg" height=180></centre>  
- <centre><img src="images_out/ThurlowCanadaPlace_North.jpg_pie.jpg" height=180></centre>
+<centre><img src="images_out/ThurlowCanadaPlace_North.jpg" height=130></centre> 
+ <centre><img src="reports/ThurlowCanadaPlace_North.jpg" height=130></centre>  
+ <centre><img src="images_out/ThurlowCanadaPlace_North.jpg_pie.jpg" height=130></centre>
 <centre><img src="images_out/ThurlowCanadaPlace_East.jpg" height='130'></centre>
  <centre><img src="reports/ThurlowCanadaPlace_East.jpg" height='130'></centre>  
  <centre><img src="images_out/ThurlowCanadaPlace_East.jpg_pie.jpg" height='130'></centre>
