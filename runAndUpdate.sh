@@ -1,5 +1,5 @@
 
-while:
+while :
 do
     echo "Running @ $(date)"
     # grab new images and analyze

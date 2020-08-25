@@ -4,6 +4,7 @@ from azure.cognitiveservices.vision.computervision.models import VisualFeatureTy
 from msrest.authentication import CognitiveServicesCredentials
 import time
 
+score_th =0.7
 
 def authenticate_the_client(endpoint, key):
     client = ComputerVisionClient(endpoint, CognitiveServicesCredentials(key))
@@ -19,7 +20,7 @@ def describe_image(client, image_url):
     cnt =0
     s=''
     for caption in res.captions:
-        if caption.confidence > 0.7:
+        if caption.confidence > score_th:
             cnt +=1
             s += "des,\t{:d},\t{:20s},\t{:.2f}%\n".format(cnt, caption.text, caption.confidence * 100)
     return s
@@ -35,7 +36,7 @@ def categorize_image(client, image_url):
     cnt=0
     s=''
     for category in res.categories:
-        if category.score > 0.7:
+        if category.score > score_th:
             cnt +=1
             s += "cat,\t{:d},\t{:20s},\t{:.2f}%\n".format(cnt, category.name, category.score * 100)
     return s
@@ -56,6 +57,7 @@ def detect_color_image(client, image_url):
     for dom_color in res.color.dominant_colors:
         cnt +=1
         s += "clr,\t{:d},\t{:20s},\t{}\n".format(cnt, dom_color, 'Dominant colors')
+    return s
 
 def get_landmark_image(client,image_url):
     res = client.analyze_image_by_domain("landmarks", image_url)
@@ -64,9 +66,10 @@ def get_landmark_image(client,image_url):
     cnt=0
     s=''
     for landmark in res.result["landmarks"]:
-        if landmark.confidence > 0.7:
+        if landmark.confidence > score_th:
             cnt +=1
             s += "tag,\t{:d},\t{:20s},\t{:.2f}%\n".format(cnt, landmark.name, landmark.confidence * 100)
+    return s
 
 
 def tag_image(client, image_url):
@@ -79,9 +82,10 @@ def tag_image(client, image_url):
     cnt=0
     s =''
     for tag in res.tags:
-        if tag.confidence > 0.7:
+        if tag.confidence > score_th:
             cnt +=1
             s += "tag,\t{:d},\t{:20s},\t{:.2f}%\n".format(cnt, tag.name, tag.confidence * 100)
+    return s
 
 def extract_text_image(client, image_url):
     '''
