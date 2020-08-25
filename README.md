@@ -1,6 +1,6 @@
 # Vancouver Traffic Cameras
 
-Hourly feed of analyzed Downtoan Vancouver traffic cameras. The images are being analyzed for their context, objects in it and the text messages. The extracted data can be used to get stats of vehicles commuted via captured routes throughout the day.
+Analyzed images of Downtown Vancouver traffic cameras. The images are being analyzed for their context, objects in it and the text messages. The extracted data can be used to get stats of vehicles commuted via captured routes throughout the day.
 The next step is to capture the raw and extracted data and have an anomaly detection mechanism applied on them to detect accidents, fires, festivals and events.
 
 <centre><img src="images_out/ThurlowCanadaPlace_North.jpg" height=120></centre>  <centre>
