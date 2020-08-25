@@ -120,12 +120,3 @@ The next step is to capture the raw and extracted data and have an anomaly detec
 <centre><img src="images_out/GeorgiaWest_Hornby.jpg" height='130'></centre> 
  <centre><img src="reports/GeorgiaWest_Hornby.jpg" height='130'></centre> 
  <centre><img src="images_out/GeorgiaWest_Hornby.jpg_pie.jpg" height='130'></centre>
-<centre><img src="images_out/19.jpg" height='130'></centre> 
- <centre><img src="reports/19.jpg" height='130'></centre>
-  <centre><img src="images_out/19.jpg_pie.jpg" height='130'></centre>
-<centre><img src="images_out/17.jpg" height='130'></centre> 
- <centre><img src="reports/17.jpg" height='130'></centre>
- <centre><img src="images_out/17.jpg_pie.jpg" height='130'></centre>
-<centre><img src="images_out/18.jpg_pie" height='130'></centre> 
- <centre><img src="reports/18.jpg" height='130'></centre>
- <centre><img src="images_out/18.jpg_pie.jpg_pie.jpg" height='130'></centre>
