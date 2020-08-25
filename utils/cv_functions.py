@@ -49,14 +49,14 @@ def detect_color_image(client, image_url):
 
     #print("clr,\t-1,\t{}".format(res.request_id))
     s=''
-    s += "clr,\t{:d},\t{:20b},\t{}\n".format(1, res.color.is_bw_img, 'Is black and white')
+    #s += "clr,\t{:d},\t{:20b},\t{}\n".format(1, res.color.is_bw_img, 'Is black and white')
     s += "clr,\t{:d},\t{:20s},\t{}\n".format(2, res.color.accent_color, 'Accent color')
     s += "clr,\t{:d},\t{:20s},\t{}\n".format(3, res.color.dominant_color_background, 'Dominant background color')
     s += "clr,\t{:d},\t{:20s},\t{}\n".format(4, res.color.dominant_color_foreground, 'Dominant foreground color')
-    cnt = 4
-    for dom_color in res.color.dominant_colors:
-        cnt +=1
-        s += "clr,\t{:d},\t{:20s},\t{}\n".format(cnt, dom_color, 'Dominant colors')
+    #cnt = 4
+    #for dom_color in res.color.dominant_colors:
+    #    cnt +=1
+    #    s += "clr,\t{:d},\t{:20s},\t{}\n".format(cnt, dom_color, 'Dominant colors')
     return s
 
 def get_landmark_image(client,image_url):
