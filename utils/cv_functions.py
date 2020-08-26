@@ -17,12 +17,13 @@ def describe_image(client, image_url):
     res = client.describe_image(image_url)
     
     #print("des,\t-1,\t{}".format(res.request_id))
-    cnt =0
-    s=''
+#    cnt =0
+    s='Image Description:\n'
     for caption in res.captions:
         if caption.confidence > score_th:
-            cnt +=1
-            s += "des,\t{:d},\t{:20s},\t{:.2f}%\n".format(cnt, caption.text, caption.confidence * 100)
+#            cnt +=1
+#            s += "des,\t{:d},\t{:20s},\t{:.2f}%\n".format(cnt, caption.text, caption.confidence * 100)
+            s += "{:20s}\t(confidence: {:.2f}%)\n".format(caption.text, caption.confidence * 100)
     return s
 
 def categorize_image(client, image_url):
@@ -106,14 +107,15 @@ def extract_text_image(client, image_url):
             break
         time.sleep(1)
 
-    cnt =0
-    s=''
+#    cnt =0
+    s='Exctracted text:\n'
     # Print the detected text, line by line
     if get_handw_text_results.status == OperationStatusCodes.succeeded:
         for text_result in get_handw_text_results.analyze_result.read_results:
             for line in text_result.lines:
-                cnt +=1
-                s += "txt,\t{:d},\t{:20s},\n".format(cnt, line.text )
+#                cnt +=1
+#                s += "txt,\t{:d},\t{:20s},\n".format(cnt, line.text )
+                s += "{:20s},\n".format(line.text )
                 #print(line.bounding_box)
     return s
 

@@ -30,7 +30,7 @@ for i,img in enumerate(remote_image_urls):
 
     # Analyze and save the image
     s=''
-    for f in [describe_image, categorize_image, tag_image, detect_color_image, get_landmark_image, extract_text_image]:
+    for f in [describe_image, extract_text_image]: # categorize_image, tag_image, detect_color_image, get_landmark_image, extract_text_image]:
         s_tmp = f(cvc, img)
         if s_tmp:
             s += s_tmp
