@@ -27,16 +27,18 @@ for i,img in enumerate(remote_image_urls):
     file = open("images/"+os.path.basename(img), "wb")
     file.write(response.content)
     file.close()
+    try:
 
-    # Analyze and save the image
-    s=''
-    for f in [describe_image, extract_text_image]: # categorize_image, tag_image, detect_color_image, get_landmark_image, extract_text_image]:
-        s_tmp = f(cvc, img)
-        if s_tmp:
-            s += s_tmp
-    print(s)
-    save_image(s, name)
-
+        # Analyze and save the image
+        s=''
+        #for f in [describe_image, extract_text_image]: # categorize_image, tag_image, detect_color_image, get_landmark_image, extract_text_image]:
+        #    s_tmp = f(cvc, img)
+        #    if s_tmp:
+        #        s += s_tmp
+        #print(s)
+        #save_image(s, name)
+    except:
+        pass
         
 
 

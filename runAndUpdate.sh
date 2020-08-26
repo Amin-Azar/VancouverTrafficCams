@@ -11,5 +11,5 @@ do
     git commit -m "updated for $(date)"
     git push origin master
     # wait for next round
-    sleep 7200 # every hour
+    sleep 1800 # every half hour / AZURE turned off
 done
