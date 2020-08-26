@@ -11,5 +11,5 @@ do
     git commit -m "updated for $(date)"
     git push origin master
     # wait for next round
-    sleep 3600 # every hour
+    sleep 7200 # every hour
 done
